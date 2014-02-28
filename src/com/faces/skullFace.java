@@ -25,7 +25,7 @@ public class skullFace {
 	public void setTouched(boolean touch) {
 		this.touched = touch;
 	}
-
+	//can adjust the image properties by this method like height and width
 	public skullFace(Bitmap face, int x, int y, boolean skull) {
 		this.face = face;
 		int size = 100;
