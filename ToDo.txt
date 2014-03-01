@@ -1,0 +1,10 @@
+ToDo list for the game : 
+
+1. Get basic UI rendering programmatically.
+2. Get basic animations working (explosions specially)
+3. Code the concept of levels
+4. Add starting screen
+5. Smoothen the transition between views
+6. Add sounds
+7. Add tutorial
+8. Add high scores / option to register scores
